@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "sourceRoot": "",
+    "sources": [
+        "../scss/layout/_layout.scss",
+        "../scss/base/_variables.scss",
+        "../scss/components/_place-card.scss"
+    ],
+    "names": [],
+    "mappings": "AACA;EACE,aCGU;EDFV;;AAEA;EACE,eCFS;;ADKX;EACE,SCNS;;ADSX;EACE,YCZc;EDad,SCXS;EDYT;EACA;;;AEZJ;EAHE;EAKA,eDHW;;ACKX;EACE;;AAGF;EACE;EACA,ODdY",
+    "file": "main.css"
+}
