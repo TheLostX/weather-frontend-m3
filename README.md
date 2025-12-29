@@ -16,6 +16,9 @@ Estructura modular con variables, layout y componentes reutilizables.
 - Bootstrap
 - JavaScript
 
+## Link al proyecto
+- https://github.com/TheLostX/weather-frontend-m3
+
 ## Creditos
-Autor: Carlos Zamora Jeria  
-Año: 2025
+- Autor: Carlos Zamora Jeria  
+- Año: 2025
