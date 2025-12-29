@@ -17,6 +17,5 @@ Estructura modular con variables, layout y componentes reutilizables.
 - JavaScript
 
 ## Creditos
-
 Autor: Carlos Zamora Jeria  
 Año: 2025
