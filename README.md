@@ -1,5 +1,5 @@
 
-# Weather App – Módulo 3
+# Weather App (Aplicación del clima) – Módulo 3
 
 Aplicación frontend de clima que muestra un listado de lugares y una vista de detalle.
 Esta entrega se enfoca en la mejora visual y organización del proyecto.
