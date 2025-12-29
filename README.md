@@ -16,5 +16,7 @@ Estructura modular con variables, layout y componentes reutilizables.
 - Bootstrap
 - JavaScript
 
+## Creditos
+
 Autor: Carlos Zamora Jeria  
 Año: 2025
